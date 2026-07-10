@@ -117,8 +117,9 @@ Computer Science Student • Software Engineer • Full-Stack Developer • Mach
           srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
-  <img alt="Snake"
-       src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+  <img
+      alt="Snake"
+      src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
 </picture>
 
 <br><br>
@@ -130,8 +131,9 @@ Computer Science Student • Software Engineer • Full-Stack Developer • Mach
           srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man"
-       src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+  <img
+      alt="Pacman"
+      src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
