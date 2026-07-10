@@ -1,12 +1,14 @@
 name: Generate Contribution Animations
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
+
   push:
     branches:
       - main
+
+  schedule:
+    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
@@ -14,46 +16,43 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Create Output Directory
+      - name: Create output directory
         run: mkdir -p dist
 
-      # ----------------------------
-      # Generate Snake
-      # ----------------------------
-      - name: Generate Snake Animation
+      ####################################################
+      # Snake
+      ####################################################
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ----------------------------
-      # Generate Pac-Man
-      # ----------------------------
-      - name: Generate Pac-Man Contribution Graph
-        uses: abozanona/pacman-contribution-graph@v5.0.0
+      ####################################################
+      # Pacman
+      ####################################################
+
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@v5
         with:
           github_user_name: ${{ github.repository_owner }}
-        env:
-          NODE_OPTIONS: "--max_old_space_size=6144"
 
-      # ----------------------------
-      # Publish Everything
-      # ----------------------------
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      ####################################################
+      # Publish
+      ####################################################
+
+      - name: Publish to output
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update contribution animations [skip ci]"
+          publish_dir: dist
+          force_orphan: true
