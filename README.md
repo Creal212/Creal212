@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
+GitHub contribution graph 👾
 
 <br>
 
