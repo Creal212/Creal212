@@ -1,17 +1,84 @@
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
 # 👋 Hi, I'm Cyril Foday-Kailie
 
-<h3 align="center">
-Computer Science Student • Software Engineer • Full-Stack Developer • Machine Learning Enthusiast
-</h3>
-<div align="center">
+### 💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
 
-<img
-  src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
-  alt="Animated Owl"
-  width="320"
-/>
+🎓 **Computer Science Student**  
+Metropolitan State University
+
+---
+
+## 🚀 Featured Projects
+
+🧠 **TwinOS**
+> AI-powered digital workspace with intelligent assistants and cloud infrastructure.
+
+📊 **Machine Learning Research**
+> Built predictive models using Hennepin County public datasets to identify underserved SNAP communities.
+
+🌐 **Full-Stack Development**
+> Developing scalable web applications with React, Next.js, Node.js and Supabase.
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ Cloud Infrastructure
+- 🤖 AI Engineering
+- 🏗️ System Design
+- ⚙️ DevOps & Automation
+
+---
+
+## 🏆 Highlights
+
+✅ Software Engineering
+
+✅ Artificial Intelligence
+
+✅ Machine Learning
+
+✅ Cloud Computing
+
+✅ Full-Stack Development
+
+<br>
+
+<div align="left">
+
+<a href="https://github.com/Creal212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/creal212/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
+
+</td>
+
+<td width="42%" align="center">
+
+<img
+src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
+width="115%"
+alt="Animated Owl"
+/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact" width="95%" />
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
@@ -19,16 +86,13 @@ Computer Science Student • Software Engineer • Full-Stack Developer • Mach
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Creal212&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Creal212&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="58%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creal212&theme=aura&hide_border=true" width="50%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact" width="36%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creal212&theme=aura&hide_border=true" width="58%" />
 
 </div>
-
 ---
 
 # 💻 Tech Stack
