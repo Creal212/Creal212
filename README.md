@@ -24,3 +24,8 @@ GitHub contribution graph 👾
 </div>
 
 ---
+<div align="center">
+
+![Pac-Man Contribution Graph](https://github.com/Creal212/github-pacman/raw/output/pacman-contribution-graph-dark.svg)
+
+</div>
