@@ -14,14 +14,14 @@ Metropolitan State University
 
 ## 🚀 Featured Projects
 
-🧠 **TwinOS**
-> AI-powered digital workspace with intelligent assistants and cloud infrastructure.
+### 🧠 TwinOS
+AI-powered digital workspace with intelligent assistants and cloud infrastructure.
 
-📊 **Machine Learning Research**
-> Built predictive models using Hennepin County public datasets to identify underserved SNAP communities.
+### 📊 Machine Learning Research
+Built predictive models using Hennepin County public datasets to identify underserved SNAP communities.
 
-🌐 **Full-Stack Development**
-> Developing scalable web applications with React, Next.js, Node.js and Supabase.
+### 🌐 Full-Stack Development
+Developing scalable applications using React, Next.js, Node.js, Supabase and PostgreSQL.
 
 ---
 
@@ -36,19 +36,13 @@ Metropolitan State University
 
 ## 🏆 Highlights
 
-✅ Software Engineering
-
-✅ Artificial Intelligence
-
-✅ Machine Learning
-
-✅ Cloud Computing
-
-✅ Full-Stack Development
+- ✅ Software Engineering
+- ✅ Artificial Intelligence
+- ✅ Machine Learning
+- ✅ Cloud Computing
+- ✅ Full-Stack Development
 
 <br>
-
-<div align="left">
 
 <a href="https://github.com/Creal212">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -58,27 +52,28 @@ Metropolitan State University
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
-
 </td>
 
-<td width="42%" align="center">
+<td width="42%" valign="top" align="center">
 
 <img
 src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
-width="115%"
+width="120%"
 alt="Animated Owl"
 />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact" width="95%" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact"
+width="95%"
+alt="Top Languages"
+/>
 
 </td>
 
 </tr>
 </table>
-
 
 ---
 
@@ -86,13 +81,25 @@ alt="Animated Owl"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Creal212&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="58%" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Creal212&theme=aura&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
+width="48%"
+/>
 
-<br>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Creal212&theme=aura&hide_border=true"
+width="48%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creal212&theme=aura&hide_border=true" width="58%" />
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact"
+width="40%"
+/>
 
 </div>
+
 ---
 
 # 💻 Tech Stack
@@ -107,7 +114,6 @@ alt="Animated Owl"
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 <br>
 
@@ -144,7 +150,7 @@ alt="Animated Owl"
 
 <br>
 
-### Developer Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -161,43 +167,28 @@ alt="Animated Owl"
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creal212)
+<a href="https://github.com/Creal212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creal212/)
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=Creal212&icon=10&color=6)
+<a href="https://www.linkedin.com/in/creal212/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🎮 Contribution Activity
+# 👾 GitHub Arcade
 
 <div align="center">
 
-## 🐍 GitHub Snake
+## 🐍 Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Snake"
-    src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
-  />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"/>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"/>
 </picture>
 
 <br><br>
@@ -205,18 +196,9 @@ alt="Animated Owl"
 ## 👾 Pac-Man
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"
-  />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"/>
+<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"/>
 </picture>
 
 </div>
