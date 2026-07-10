@@ -113,13 +113,18 @@ Computer Science Student • Software Engineer • Full-Stack Developer • Mach
 ## 🐍 GitHub Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
+  />
   <img
-      alt="Snake"
-      src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
+  />
 </picture>
 
 <br><br>
@@ -127,13 +132,18 @@ Computer Science Student • Software Engineer • Full-Stack Developer • Mach
 ## 👾 Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"
+  />
   <img
-      alt="Pacman"
-      src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
 </div>
