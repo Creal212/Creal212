@@ -1,8 +1,12 @@
-<!-- ========================= -->
-<!--      GitHub Analytics     -->
-<!-- ========================= -->
+# 👋 Hi, I'm Cyril Foday-Kailie
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h3 align="center">
+Computer Science Student • Software Engineer • Full-Stack Developer • Machine Learning Enthusiast
+</h3>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -18,11 +22,7 @@
 
 ---
 
-<!-- ========================= -->
-<!--       Tech Stack          -->
-<!-- ========================= -->
-
-<h2 align="center">💻 Tech Stack ⚡</h2>
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -67,12 +67,11 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
 <br>
 
-### Tools
+### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -85,26 +84,19 @@
 
 ---
 
-<!-- ========================= -->
-<!--      Connect With Me      -->
-<!-- ========================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
+# 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creal212)
 
-<!-- Replace with your actual LinkedIn URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/creal212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creal212/)
 
 </div>
 
 ---
 
-<!-- ========================= -->
-<!--      Visitor Counter      -->
-<!-- ========================= -->
+# 👀 Profile Visitors
 
 <div align="center">
 
@@ -114,48 +106,32 @@
 
 ---
 
-<!-- ========================= -->
-<!--  Contribution Activity    -->
-<!-- ========================= -->
-
-<h2 align="center">🎮 Contribution Activity</h2>
+# 🎮 Contribution Activity
 
 <div align="center">
 
-<h3>🐍 GitHub Snake</h3>
+## 🐍 GitHub Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Snake Animation"
-    src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+  <img alt="Snake"
+       src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
 </picture>
 
 <br><br>
 
-<h3>👾 GitHub Pac-Man</h3>
+## 👾 Pac-Man
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Creal212/github-pacman/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Creal212/github-pacman/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/Creal212/github-pacman/output/pacman-contribution-graph.svg"
-  />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man"
+       src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
