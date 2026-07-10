@@ -3,6 +3,15 @@
 <h3 align="center">
 Computer Science Student • Software Engineer • Full-Stack Developer • Machine Learning Enthusiast
 </h3>
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
+  alt="Animated Owl"
+  width="320"
+/>
+
+</div>
 
 ---
 
