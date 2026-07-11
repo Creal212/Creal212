@@ -1,38 +1,30 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pac-Man
 
 on:
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "15 */12 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  pacman:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - uses: actions/checkout@v4
-
-      - run: mkdir -p dist
-
       - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@v5
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-        env:
-          NODE_OPTIONS: "--max_old_space_size=6144"
 
       - name: Publish Pac-Man
-        uses: peaceiris/actions-gh-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          keep_files: true
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
