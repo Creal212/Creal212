@@ -7,7 +7,7 @@
 <i> "Ah. Another one. I knew you would come. The path was always leading here."</i></p>
 
 
-You have not stumbled upon this great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here.
+You have not stumbled upon this Great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here.
 
 💻**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
 
