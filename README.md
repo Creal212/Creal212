@@ -206,7 +206,7 @@ width="40%"
 
 ---
 
-# 🌐 Connect With Me Again (If you missed the Big boys up Top👀)
+# 🌐 Connect With Me Again (Incase you missed the Big boys up Top👀)
 
 <div align="center">
 
