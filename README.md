@@ -70,7 +70,11 @@ src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/luffy.gif"
 width="100%"
 alt="Luffy"
 />
+<br>
 
+<p align="center">
+<i>"Your production environment belongs to me now."</i>
+</p>
 <br><br>
 
 <img
@@ -78,7 +82,11 @@ src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/bleach.gif"
 width="100%"
 alt="Bleach"
 />
+<br>
 
+<p align="center">
+<i>"There is no cloud. Only someone else's computer."</i>
+</p>
 <br><br>
 
 <img
@@ -86,7 +94,11 @@ src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/naruto.gif"
 width="100%"
 alt="Naruto"
 />
+<br>
 
+<p align="center">
+<i>"Certified VibeCoder."</i>
+</p>
 <br><br>
 
 <img
