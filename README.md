@@ -3,12 +3,15 @@
 
 <td width="58%" valign="top">
 
-# 👋 Hi, I'm Cyril Foday-Kailie
+<p align="center">
+<i> "Ah. Another one. I knew you would come. The path was always leading here."</i></p>
 
-### 💻 Software Engineer • Full-Stack Developer • AI & Machine Learning Enthusiast
 
-🎓 **Computer Science Student**  
-Metropolitan State University
+You have not stumbled upon this great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here.
+
+💻**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
+
+🎓 **Origin:**  **Computer Science Student** | *Metropolitan State University*
 
 ---
 
