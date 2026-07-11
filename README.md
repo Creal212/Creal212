@@ -9,18 +9,18 @@
 
 You have not stumbled upon this Great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here.
 
-💻**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
+🔱**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
 
 🎓 **Origin:**  **Computer Science Student** | *Metropolitan State University*
 
 ---
 
-## 🚀 Featured Projects
+## 👁️‍🗨️ Featured Projects
 
-### 🧠 TwinOS
+### 🧬 TwinOS
 AI-powered digital workspace featuring intelligent assistants, cloud architecture, and scalable full-stack engineering.
 
-### 📊 Machine Learning Research
+### 🪬 Machine Learning Research
 Built predictive models using Hennepin County public datasets to identify underserved SNAP communities and improve accessibility insights.
 
 ### 🌐 Full-Stack Applications
