@@ -46,9 +46,10 @@ Building modern web applications with React, Next.js, TypeScript, Node.js, Supab
 - ✅ Cloud Computing
 
 ---
-
 <div align="center">
-
+🌐 (Big boys over here)</div>
+<div align="center">
+ 
 <a href="https://github.com/Creal212">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -205,7 +206,7 @@ width="40%"
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me Again (If you missed the Big boys up Top👀)
 
 <div align="center">
 
