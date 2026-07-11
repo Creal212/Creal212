@@ -58,7 +58,7 @@ Developing scalable applications using React, Next.js, Node.js, Supabase and Pos
 
 <img
 src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
-width="120%"
+width="150%"
 alt="Animated Owl"
 />
 
