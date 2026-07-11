@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Cyril Foday-Kailie
 
-### 💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+### 💻 Software Engineer • Full-Stack Developer • AI & Machine Learning Enthusiast
 
 🎓 **Computer Science Student**  
 Metropolitan State University
@@ -15,17 +15,17 @@ Metropolitan State University
 ## 🚀 Featured Projects
 
 ### 🧠 TwinOS
-AI-powered digital workspace with intelligent assistants and cloud infrastructure.
+AI-powered digital workspace featuring intelligent assistants, cloud architecture, and scalable full-stack engineering.
 
 ### 📊 Machine Learning Research
-Built predictive models using Hennepin County public datasets to identify underserved SNAP communities.
+Built predictive models using Hennepin County public datasets to identify underserved SNAP communities and improve accessibility insights.
 
-### 🌐 Full-Stack Development
-Developing scalable applications using React, Next.js, Node.js, Supabase and PostgreSQL.
+### 🌐 Full-Stack Applications
+Building modern web applications with React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and Docker.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
 - ☁️ Cloud Infrastructure
 - 🤖 AI Engineering
@@ -34,15 +34,17 @@ Developing scalable applications using React, Next.js, Node.js, Supabase and Pos
 
 ---
 
-## 🏆 Highlights
+## 🏆 Core Strengths
 
 - ✅ Software Engineering
+- ✅ Full-Stack Development
 - ✅ Artificial Intelligence
 - ✅ Machine Learning
 - ✅ Cloud Computing
-- ✅ Full-Stack Development
 
-<br>
+---
+
+<div align="center">
 
 <a href="https://github.com/Creal212">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,28 +54,53 @@ Developing scalable applications using React, Next.js, Node.js, Supabase and Pos
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+</div>
+
 </td>
 
 <td width="42%" valign="top" align="center">
 
+<h2>🔥 Beyond Code</h2>
+
 <img
-src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/owl.gif"
-width="150%"
-alt="Animated Owl"
+src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/luffy.gif"
+width="100%"
+alt="Luffy"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact"
-width="95%"
-alt="Top Languages"
+src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/bleach.gif"
+width="100%"
+alt="Bleach"
 />
 
-</td>
+<br><br>
 
+<img
+src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/naruto.gif"
+width="100%"
+alt="Naruto"
+/>
+
+<br><br>
+
+<img
+src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/chop.gif"
+width="100%"
+alt="Zoro & Chopper"
+/>
+<br>
+
+<p align="center">
+<i>"Stay curious. Keep building."</i>
+</p>
+</td>
 </tr>
 </table>
+
+---
 
 ---
 
