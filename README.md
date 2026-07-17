@@ -37,7 +37,7 @@ Building modern web applications with React, Next.js, TypeScript, Node.js, Supab
 
 ---
 
-## 🏆 Core Strengths
+## 🏆Reflection
 
 - ✅ Software Engineering
 - ✅ Full-Stack Development
