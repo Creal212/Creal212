@@ -116,36 +116,16 @@ alt="Zoro & Chopper"
 </tr>
 </table>
 
----
 
----
 
-# 📊 GitHub Analytics
+
+
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Creal212&theme=aura&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"
-width="48%"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Creal212&theme=aura&hide_border=true"
-width="48%"
-/>
-
-<br><br>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&theme=aura&hide_border=true&layout=compact"
-width="40%"
-/>
-
-</div>
-
 ---
 
-# 💻 Tech Stack
+# 💻 Skills
 
 <div align="center">
 
