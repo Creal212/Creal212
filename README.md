@@ -7,7 +7,7 @@
 <i> "Ah. Another one. I knew you would come. The path was always leading here."</i></p>
 
 
-You have not stumbled upon this Great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here. "PSsP The good stuff are all in Private repo reach out for inquiries."
+You have not stumbled upon this Great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here. "PSsP The good stuff are all in Portfolio Site https://www.creal589.dev/ also reach out for inquiries."
 
 🔱**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
 
