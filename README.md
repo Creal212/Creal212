@@ -6,7 +6,7 @@
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.svg"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.png"
     alt="Cyril Foday-Kailie — Software Engineer and Product Designer"
     width="100%"
   />
@@ -49,7 +49,7 @@ I ship end-to-end products: AI-assisted desktop tools, live market interfaces, d
 
 <a href="https://www.bookofblocks.xyz/">
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/book-of-blocks.svg"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/book-of-blocks.png"
     alt="The Book of Blocks"
     width="360"
   />
@@ -64,7 +64,7 @@ Chaptered project guides, live rankings, charts, and source provenance in one re
 
 <a href="https://www.imperium589.world/">
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/imperium.svg"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/imperium.png"
     alt="I.M.P.E.R.I.U.M"
     width="360"
   />
@@ -79,7 +79,7 @@ Plan in Blueprint, build in a project clone, review patches before they reach Ma
 
 <a href="https://wtf-trading-interface.vercel.app/">
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/world-trade-factory.svg"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/world-trade-factory.png"
     alt="World Trade Factory"
     width="360"
   />
@@ -94,7 +94,7 @@ Markets, charts, comparisons, and wallet-ready flows that adapt from desktop des
 
 <a href="https://github.com/Creal212/revops-data-sync">
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/revops.svg"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/revops.png"
     alt="RevOps Data Sync"
     width="360"
   />
@@ -158,12 +158,9 @@ Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.
 
 ---
 
-<details>
-<summary><strong>Beyond the commit graph</strong> — light personality, kept out of the way</summary>
-
-<br/>
-
 <div align="center">
+
+## GitHub Arcade
 
 *Stay curious. Keep building.*
 
@@ -171,7 +168,7 @@ Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.
 
 <br/><br/>
 
-### Contribution arcade
+### Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
@@ -179,7 +176,9 @@ Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg" width="100%">
 </picture>
 
-<br/>
+<br/><br/>
+
+### Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
@@ -188,8 +187,6 @@ Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.
 </picture>
 
 </div>
-
-</details>
 
 ---
 
