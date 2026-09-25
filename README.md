@@ -6,7 +6,7 @@
 <div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.png"
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.gif"
     alt="Cyril Foday-Kailie — Software Engineer and Product Designer"
     width="100%"
   />
