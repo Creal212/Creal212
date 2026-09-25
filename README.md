@@ -1,234 +1,203 @@
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-<p align="center">
-<i> "Ah. Another one. I knew you would come. The path was always leading here."</i></p>
-
-
-You have not stumbled upon this Great one by chance, you have arrived at an inevitable destination. Rejoice for thy search ends here. "PSsP The good stuff are all in Portfolio Site https://www.creal589.dev/ also reach out for inquiries."
-
-🔱**The Entity:**  **Software Engineer** • **Full-Stack Developer** • **AI & Machine Learning Architect**  
-
-🎓 **Origin:**  **Computer Science Student** | *Metropolitan State University*
-
----
-
-## 👁️‍🗨️ Featured Projects
-
-### 🧬 TwinOS
-AI-powered digital workspace featuring intelligent assistants, cloud architecture, and scalable full-stack engineering.
-
-### 🪬 Machine Learning Research
-Built predictive models using Hennepin County public datasets to identify underserved SNAP communities and improve accessibility insights.
-
-### 🌐 Full-Stack Applications
-Building modern web applications with React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and Docker.
-
----
-
-## 🌱 Current Focus
-
-- ☁️ Cloud Infrastructure
-- 🤖 AI Engineering
-- 🏗️ System Design
-- ⚙️ DevOps & Automation
-
----
-
-## 🏆Reflection
-
-- ✅ Software Engineering
-- ✅ Full-Stack Development
-- ✅ Artificial Intelligence
-- ✅ Machine Learning
-- ✅ Cloud Computing
-
----
-<div align="center">
-🌐 (Big boys over here)</div>
-<div align="center">
- 
-<a href="https://github.com/Creal212">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/creal212/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="42%" valign="top" align="center">
-
-<h2>🔥 Beyond Code</h2>
-
-<img
-src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/luffy.gif"
-width="100%"
-alt="Luffy"
-/>
-<br>
-
-<p align="center">
-<i>"Your production environment belongs to me now."</i>
-</p>
-<br><br>
-
-<img
-src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/bleach.gif"
-width="100%"
-alt="Bleach"
-/>
-<br>
-
-<p align="center">
-<i>"There is no cloud. Only someone else's computer."</i>
-</p>
-<br><br>
-
-<img
-src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/naruto.gif"
-width="100%"
-alt="Naruto"
-/>
-<br>
-
-<p align="center">
-<i>"Certified VibeCoder."</i>
-</p>
-<br><br>
-
-<img
-src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/chop.gif"
-width="100%"
-alt="Zoro & Chopper"
-/>
-<br>
-
-<p align="center">
-<i>"Stay curious. Keep building."</i>
-</p>
-</td>
-</tr>
-</table>
-
-
-
-
-
+<!--
+  Cyril Foday-Kailie — GitHub Profile
+  Single-column, mobile-first. No layout tables. Brand assets under /assets/brand.
+-->
 
 <div align="center">
 
----
+  <img
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.svg"
+    alt="Cyril Foday-Kailie — Software Engineer and Product Designer"
+    width="100%"
+  />
 
-# 💻 Skills
+  <br/><br/>
 
-<div align="center">
+  **Software Engineer · Full-Stack Developer · AI Systems · Product Designer**  
+  St. Paul, MN · B.S. Computer Science, Metropolitan State University  
+  *I build products where the interface and the architecture are designed together.*
 
-### Languages
+  <br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-<br>
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-<br>
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-<br>
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-<br>
-
-### Data Science & Machine Learning
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-<br>
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-creal589.dev-1A3328?style=for-the-badge&labelColor=0B1612)](https://www.creal589.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-creal212-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creal212/)
+  [![Email](https://img.shields.io/badge/Email-Primepeace2003%40gmail.com-C4A35A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1610)](mailto:Primepeace2003@gmail.com)
+  [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Software%20Engineering%20roles-3D6B4F?style=for-the-badge&labelColor=0B1612)](https://www.creal589.dev/contact-me)
 
 </div>
 
 ---
 
-# 🌐 Connect With Me Again (Incase you missed the Big boys up Top👀)
+### Snapshot
+
+I ship end-to-end products: AI-assisted desktop tools, live market interfaces, data pipelines, and carefully designed web experiences. Recent work spans **React / Next.js**, **TypeScript**, **Supabase**, **Python**, **PostgreSQL**, **Tauri / Rust**, and **on-chain** systems — with the same attention to interaction design as to system boundaries.
+
+- **Product engineering** — own the path from idea → UX → data model → deploy  
+- **AI systems** — local + cloud model workflows with reviewable change control  
+- **Interface craft** — responsive layouts, typography, motion, and readable complexity  
+- **Data & backends** — realtime feeds, pipelines, SQL, and observability
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Creal212">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+## Selected Work
+
+*Built, designed, and shipped — not just prototyped.*
+
+</div>
+
+<a href="https://www.bookofblocks.xyz/">
+  <img
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/book-of-blocks.svg"
+    alt="The Book of Blocks"
+    width="360"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/creal212/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+**[The Book of Blocks](https://www.bookofblocks.xyz/)** — crypto encyclopedia + market observatory  
+Chaptered project guides, live rankings, charts, and source provenance in one reading experience.  
+`Next.js` · `React` · `Supabase Realtime` · `TradingView Charts` · `Vercel`  
+[Live](https://www.bookofblocks.xyz/) · [Case study](https://www.creal589.dev/my-projects/book-of-blocks)
+
+<br/>
+
+<a href="https://www.imperium589.world/">
+  <img
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/imperium.svg"
+    alt="I.M.P.E.R.I.U.M"
+    width="360"
+  />
 </a>
+
+**[I.M.P.E.R.I.U.M](https://www.imperium589.world/)** — AI desktop workspace (early access)  
+Plan in Blueprint, build in a project clone, review patches before they reach Main. Local + connected models.  
+`Tauri` · `Rust` · `React` · `TypeScript` · `SQLite` · `llama.cpp`  
+[Product site](https://www.imperium589.world/) · [Installer repo](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-) · [Case study](https://www.creal589.dev/my-projects/imperium)
+
+<br/>
+
+<a href="https://wtf-trading-interface.vercel.app/">
+  <img
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/world-trade-factory.svg"
+    alt="World Trade Factory"
+    width="360"
+  />
+</a>
+
+**[World Trade Factory](https://wtf-trading-interface.vercel.app/)** — live trading workspace  
+Markets, charts, comparisons, and wallet-ready flows that adapt from desktop desk to mobile tabs.  
+`React` · `Next.js` · `TypeScript` · `Responsive UX`  
+[Live](https://wtf-trading-interface.vercel.app/) · [Case study](https://www.creal589.dev/my-projects/wtf)
+
+<br/>
+
+<a href="https://github.com/Creal212/revops-data-sync">
+  <img
+    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/revops.svg"
+    alt="RevOps Data Sync"
+    width="360"
+  />
+</a>
+
+**[RevOps Data Sync](https://github.com/Creal212/revops-data-sync)** — analytics pipeline platform  
+Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.  
+`Python` · `PostgreSQL` · `SQL` · `Metabase`  
+[Repository](https://github.com/Creal212/revops-data-sync)
+
+---
+
+<div align="center">
+
+## Toolkit
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,supabase,postgres,mongodb,docker,linux,git,vercel,tailwind" alt="Core skills" />
+
+<br/><br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
 </div>
 
 ---
 
-# 👾 GitHub Arcade
+### Currently sharpening
+
+- Cloud infrastructure & production deployment patterns  
+- AI engineering with clear human review boundaries  
+- System design for realtime and multi-environment products  
+- DevOps automation that stays understandable under pressure  
+
+---
 
 <div align="center">
 
-## 🐍 Snake
+## Signal
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Creal212&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7CB89A&icon_color=C4A35A&text_color=c9d1d9&bg_color=00000000"
+  alt="Creal212 GitHub stats"
+  height="165"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&layout=compact&theme=transparent&hide_border=true&title_color=7CB89A&text_color=c9d1d9&bg_color=00000000"
+  alt="Top languages"
+  height="165"
+/>
+
+</div>
+
+---
+
+<details>
+<summary><strong>Beyond the commit graph</strong> — light personality, kept out of the way</summary>
+
+<br/>
+
+<div align="center">
+
+*Stay curious. Keep building.*
+
+<img src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/chop.gif" width="220" alt="Stay curious"/>
+
+<br/><br/>
+
+### Contribution arcade
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
-  <img
-      alt="GitHub Snake"
-      src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg" width="100%">
 </picture>
-<br><br>
 
-## 👾 Pac-Man
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
-  <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+### Let’s build something worth reviewing twice
+
+The portfolio has the full story — product decisions, stacks, and case studies.  
+**[creal589.dev](https://www.creal589.dev/)** · **[LinkedIn](https://www.linkedin.com/in/creal212/)** · **[Résumé](https://www.creal589.dev/resume)**
 
 </div>

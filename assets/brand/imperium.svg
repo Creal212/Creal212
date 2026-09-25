@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-label="I.M.P.E.R.I.U.M">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#152238"/>
+    </linearGradient>
+    <linearGradient id="gem" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#8EC5FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="120" rx="16" fill="url(#bg)" stroke="#3B82F6" stroke-opacity="0.4"/>
+  <path d="M40 28 L58 38 L58 58 L40 68 L22 58 L22 38 Z" fill="url(#gem)" opacity="0.95"/>
+  <path d="M40 36 L50 42 V54 L40 60 L30 54 V42 Z" fill="#0B1220" opacity="0.35"/>
+  <text x="74" y="52" fill="#E8F0FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">I.M.P.E.R.I.U.M</text>
+  <text x="74" y="78" fill="#93A6C4" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">AI desktop workspace · Reviewable patches</text>
+</svg>
