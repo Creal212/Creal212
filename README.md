@@ -1,8 +1,12 @@
-<!-- Original vector illustrations: assets/atlas. Essential content stays in native Markdown. -->
+<!-- Original illustrations: assets/atlas. GIF motion is opt-in via no-preference; SVGs provide reduced-motion and legacy fallbacks. Essential content stays in native Markdown. -->
 
 [Portfolio ↗](https://www.creal589.dev/) · [Résumé ↗](https://www.creal589.dev/resume) · [LinkedIn ↗](https://www.linkedin.com/in/creal212/) · [Email ↗](mailto:tommyfodaykailie@gmail.com)
 
 <picture>
+  <source media="(prefers-reduced-motion: no-preference) and (prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/atlas/cover-mobile-dark.gif">
+  <source media="(prefers-reduced-motion: no-preference) and (max-width: 640px)" srcset="assets/atlas/cover-mobile.gif">
+  <source media="(prefers-reduced-motion: no-preference) and (prefers-color-scheme: dark)" srcset="assets/atlas/cover-dark.gif">
+  <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/cover.gif">
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/atlas/cover-mobile-dark.svg">
   <source media="(max-width: 640px)" srcset="assets/atlas/cover-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/atlas/cover-dark.svg">
@@ -28,7 +32,10 @@ Four products. Four different problems. One thread: **design the experience and 
 ### 01 / Dev Autographs
 
 <a href="https://www.devautographs.com/">
-  <img src="assets/atlas/dev-autograph.svg" alt="Dev Autographs: an engraved signature flows into a cryptographic seal. Open the product." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/dev-autograph.gif">
+    <img src="assets/atlas/dev-autograph.svg" alt="Dev Autographs: an engraved signature flows into a cryptographic seal. Open the product." width="100%">
+  </picture>
 </a>
 
 **A signature for the files you ship.**<br>A Windows app, CLI, and web desk connect Git workflows to cryptographic file signatures and public records. The optional <kbd>Shift</kbd> + <kbd>D</kbd> report brings those records into a website without adding a permanent badge.
@@ -51,7 +58,10 @@ The report checks the supplied file signatures and registry status. The design c
 ### 02 / The Book of Blocks
 
 <a href="https://www.bookofblocks.xyz/">
-  <img src="assets/atlas/book-of-blocks.svg" alt="The Book of Blocks: a landscape of stacked blocks becomes a market instrument. Open the live project." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/book-of-blocks.gif">
+    <img src="assets/atlas/book-of-blocks.svg" alt="The Book of Blocks: a landscape of stacked blocks becomes a market instrument. Open the live project." width="100%">
+  </picture>
 </a>
 
 **A reading room with a market observatory next door.**<br>Chaptered crypto guides, live rankings, price charts, and source notes share one reading experience. The project brings editorial structure to a subject that rarely slows down.
@@ -74,7 +84,10 @@ The engineering work connects the reading experience to market ingestion, storag
 ### 03 / I.M.P.E.R.I.U.M
 
 <a href="https://www.imperium589.world/">
-  <img src="assets/atlas/imperium.svg" alt="I.M.P.E.R.I.U.M: an exploded workbench illustrates the path from a project clone through review to Main. Open the product." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/imperium.gif">
+    <img src="assets/atlas/imperium.svg" alt="I.M.P.E.R.I.U.M: an exploded workbench illustrates the path from a project clone through review to Main. Open the product." width="100%">
+  </picture>
 </a>
 
 **From a conversation to a reviewed change.**<br>An AI desktop workspace for planning, building in a project clone, and reviewing patches before they reach Main. Local and connected model workflows share a deliberate human review boundary.
@@ -97,7 +110,10 @@ That separation shapes both the architecture and the interface: model output nee
 ### 04 / World Trade Factory
 
 <a href="https://wtf-trading-interface.vercel.app/">
-  <img src="assets/atlas/world-trade-factory.svg" alt="World Trade Factory: a calibrated market console puts charts and controls around a central instrument. Open the live interface." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/world-trade-factory.gif">
+    <img src="assets/atlas/world-trade-factory.svg" alt="World Trade Factory: a calibrated market console puts charts and controls around a central instrument. Open the live interface." width="100%">
+  </picture>
 </a>
 
 **A market desk built around moving information.**<br>Live feeds, price charts, and wallet connections meet in a responsive workspace. The layout moves from a desktop trading desk to focused mobile views.
@@ -153,7 +169,10 @@ Careful engineering. A little anime. Always another idea on the bench.
 <br>
 
 <a href="https://www.creal589.dev/contact-me">
-  <img src="assets/atlas/colophon.svg" alt="The next page is unwritten. Let’s build it. Contact Cyril." width="100%">
+  <picture>
+    <source media="(prefers-reduced-motion: no-preference)" srcset="assets/atlas/colophon.gif">
+    <img src="assets/atlas/colophon.svg" alt="The next page is unwritten. Let’s build it. Contact Cyril." width="100%">
+  </picture>
 </a>
 
 **Looking for someone who cares how it works and how it feels?**<br>I’m open to software engineering roles and thoughtful conversations about building useful products.
