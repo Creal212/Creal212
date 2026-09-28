@@ -1,6 +1,6 @@
 <!-- Original illustrations: assets/atlas. GIF motion is opt-in via no-preference; SVGs provide reduced-motion and legacy fallbacks. Essential content stays in native Markdown. -->
 
-[Portfolio ↗](https://www.creal589.dev/) · [Résumé ↗](https://www.creal589.dev/resume) · [LinkedIn ↗](https://www.linkedin.com/in/creal212/) · [Email ↗](mailto:tommyfodaykailie@gmail.com)
+[Portfolio](https://www.creal589.dev/) &emsp; [Résumé](https://www.creal589.dev/resume) &emsp; [LinkedIn](https://www.linkedin.com/in/creal212/) &emsp; [Email](mailto:tommyfodaykailie@gmail.com)
 
 <picture>
   <source media="(prefers-reduced-motion: no-preference) and (prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/atlas/cover-mobile-dark.gif">
@@ -15,21 +15,21 @@
 
 # Cyril Foday-Kailie
 
-**Software engineer · Full-stack products · AI systems · Product design**<br>St. Paul, Minnesota · B.S. Computer Science, Metropolitan State University
+**Software engineer**<br>Full stack development, AI systems and product design.<br>St. Paul, Minnesota<br>B.S. Computer Science, Metropolitan State University
 
-I turn complicated systems into products people can understand and use. My work connects the visible details—interfaces, typography, interaction—with the machinery underneath: APIs, data pipelines, desktop tooling, and AI workflows.
+I build products that make complicated systems easier to understand and use. I care about the interface, typography, and interactions people see, as well as the APIs, data pipelines, desktop tools, and AI workflows behind them.
 
 **Open to software engineering roles.**
 
----
+<hr>
 
 ## The collection
 
-Four products. Four different problems. One thread: **design the experience and the system together.**
+Each project begins with a different problem. I design the interface and the system behind it together.
 
-[01 — Sign](#01--dev-autographs) · [02 — Understand](#02--the-book-of-blocks) · [03 — Build](#03--imperium) · [04 — Navigate](#04--world-trade-factory)
+[Folio 01](#folio-01-dev-autographs) &emsp; [Folio 02](#folio-02-the-book-of-blocks) &emsp; [Folio 03](#folio-03-imperium) &emsp; [Folio 04](#folio-04-world-trade-factory)
 
-### 01 / Dev Autographs
+### Folio 01. Dev Autographs
 
 <a href="https://www.devautographs.com/">
   <picture>
@@ -40,14 +40,14 @@ Four products. Four different problems. One thread: **design the experience and 
 
 **A signature for the files you ship.**<br>A Windows app, CLI, and web desk connect Git workflows to cryptographic file signatures and public records. The optional <kbd>Shift</kbd> + <kbd>D</kbd> report brings those records into a website without adding a permanent badge.
 
-`Tauri` `Node.js` `Git hooks` `Ed25519` `SHA-256` · **Early access**
+`Tauri` `Node.js` `Git hooks` `Ed25519` `SHA-256`<br><em>Early access</em>
 
-[Explore the product ↗](https://www.devautographs.com/) · [Open the web desk ↗](https://www.devautographs.com/desk.html) · [Case study ↗](https://www.creal589.dev/my-projects/dev-autographs) · [Releases ↗](https://github.com/Creal212/Dev-Autographs-Installer/releases)
+[Explore the product](https://www.devautographs.com/) &emsp; [Open the web desk](https://www.devautographs.com/desk.html) &emsp; [Case study](https://www.creal589.dev/my-projects/dev-autographs) &emsp; [Releases](https://github.com/Creal212/Dev-Autographs-Installer/releases)
 
 <details>
-<summary><strong>Inside the mechanism</strong> — from a commit to an inspectable record</summary>
+<summary><strong>Field note:</strong> From commit to verifiable record</summary>
 
-Enabled hooks sign staged file bytes and their recorded context. Publishing happens on push; website embedding is a separate opt-in. Private signing keys stay on the developer’s machine, and the registry receives fingerprints and signed records rather than source code.
+Enabled hooks sign staged file bytes and their recorded context. Publishing happens on push. Website reports are enabled separately. Private signing keys stay on the developer’s machine, and the registry receives fingerprints and signed records rather than source code.
 
 The report checks the supplied file signatures and registry status. The design challenge is making that evidence understandable without interrupting the product around it.
 
@@ -55,7 +55,7 @@ The report checks the supplied file signatures and registry status. The design c
 
 <br>
 
-### 02 / The Book of Blocks
+### Folio 02. The Book of Blocks
 
 <a href="https://www.bookofblocks.xyz/">
   <picture>
@@ -68,10 +68,10 @@ The report checks the supplied file signatures and registry status. The design c
 
 `Next.js` `React` `Supabase Realtime` `TradingView Lightweight Charts`
 
-[Enter the observatory ↗](https://www.bookofblocks.xyz/) · [Case study ↗](https://www.creal589.dev/my-projects/book-of-blocks)
+[Enter the observatory](https://www.bookofblocks.xyz/) &emsp; [Case study](https://www.creal589.dev/my-projects/book-of-blocks)
 
 <details>
-<summary><strong>Inside the mechanism</strong> — give moving data a readable home</summary>
+<summary><strong>Field note:</strong> Making live data readable</summary>
 
 The interface has two jobs: explain a project and show what its market is doing. Chapter navigation serves the first; rankings, charts, source notes, and visible timestamps serve the second.
 
@@ -81,7 +81,7 @@ The engineering work connects the reading experience to market ingestion, storag
 
 <br>
 
-### 03 / I.M.P.E.R.I.U.M
+### Folio 03. I.M.P.E.R.I.U.M
 
 <a href="https://www.imperium589.world/">
   <picture>
@@ -92,12 +92,12 @@ The engineering work connects the reading experience to market ingestion, storag
 
 **From a conversation to a reviewed change.**<br>An AI desktop workspace for planning, building in a project clone, and reviewing patches before they reach Main. Local and connected model workflows share a deliberate human review boundary.
 
-`Tauri` `Rust` `React` `TypeScript` `SQLite` · **Early access**
+`Tauri` `Rust` `React` `TypeScript` `SQLite`<br><em>Early access</em>
 
-[Visit the workbench ↗](https://www.imperium589.world/) · [Case study ↗](https://www.creal589.dev/my-projects/imperium) · [Installer repository ↗](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-)
+[Visit the workbench](https://www.imperium589.world/) &emsp; [Case study](https://www.creal589.dev/my-projects/imperium) &emsp; [Installer repository](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-)
 
 <details>
-<summary><strong>Inside the mechanism</strong> — make the approval boundary visible</summary>
+<summary><strong>Field note:</strong> Review before Main</summary>
 
 Blueprint is the planning space. A project clone is the working space. Reviewed patches are the path back to Main.
 
@@ -107,7 +107,7 @@ That separation shapes both the architecture and the interface: model output nee
 
 <br>
 
-### 04 / World Trade Factory
+### Folio 04. World Trade Factory
 
 <a href="https://wtf-trading-interface.vercel.app/">
   <picture>
@@ -118,12 +118,12 @@ That separation shapes both the architecture and the interface: model output nee
 
 **A market desk built around moving information.**<br>Live feeds, price charts, and wallet connections meet in a responsive workspace. The layout moves from a desktop trading desk to focused mobile views.
 
-`Next.js` `React` `Recharts` `WebSockets` `ethers.js` · **Live interface · Integrations in progress**
+`Next.js` `React` `Recharts` `WebSockets` `ethers.js`<br><em>Live interface. Integrations in progress.</em>
 
-[Explore the interface ↗](https://wtf-trading-interface.vercel.app/) · [Case study ↗](https://www.creal589.dev/my-projects/wtf)
+[Explore the interface](https://wtf-trading-interface.vercel.app/) &emsp; [Case study](https://www.creal589.dev/my-projects/wtf)
 
 <details>
-<summary><strong>Inside the mechanism</strong> — density without losing direction</summary>
+<summary><strong>Field note:</strong> Keeping a busy market desk clear</summary>
 
 Markets, charts, and trading controls need a clear hierarchy when everything is changing at once. The case study follows those layout decisions across desktop and mobile, alongside live market feeds and wallet integrations.
 
@@ -133,9 +133,9 @@ Execution and settlement integrations remain in progress. Saved trading rules cu
 
 <br>
 
-**Also on the bench — [RevOps Data Sync ↗](https://github.com/Creal212/revops-data-sync)**<br>A compact data engineering project: mock CRM, support, and product data move through Python ingestion and SQL cleanup into a PostgreSQL account-health mart and a Metabase dashboard.<br>`Python` `SQL` `PostgreSQL` `Metabase` `Docker`
+**Also on the bench: [RevOps Data Sync](https://github.com/Creal212/revops-data-sync)**<br>A compact data engineering project: mock CRM, support, and product data move through Python ingestion and SQL cleanup into a PostgreSQL account health mart and a Metabase dashboard.<br>`Python` `SQL` `PostgreSQL` `Metabase` `Docker`
 
----
+<hr>
 
 ## The working practice
 
@@ -148,17 +148,21 @@ Execution and settlement integrations remain in progress. Saved trading rules cu
 <details>
 <summary><strong>Tools behind the work</strong></summary>
 
-- **Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS.
-- **Data and services:** Python, Node.js, PostgreSQL, Supabase, SQL.
-- **Desktop and AI workflows:** Tauri, Rust, SQLite, local and connected models.
-- **Delivery:** Git, Docker, Vercel, Railway.
+**Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS.
+
+**Data and services:** Python, Node.js, PostgreSQL, Supabase, SQL.
+
+**Desktop and AI workflows:** Tauri, Rust, SQLite, local and connected models.
+
+**Delivery:** Git, Docker, Vercel, Railway.
+
 
 The project links above show where these tools are used and the decisions behind them.
 
 </details>
 
 <details>
-<summary><strong>In the margins</strong> — there is still room to play</summary>
+<summary><strong>In the margins:</strong> A little room to play</summary>
 
 Careful engineering. A little anime. Always another idea on the bench.
 
@@ -177,6 +181,6 @@ Careful engineering. A little anime. Always another idea on the bench.
 
 **Looking for someone who cares how it works and how it feels?**<br>I’m open to software engineering roles and thoughtful conversations about building useful products.
 
-[Read my résumé ↗](https://www.creal589.dev/resume) · [Explore the portfolio ↗](https://www.creal589.dev/) · [Get in touch ↗](mailto:tommyfodaykailie@gmail.com)
+[Read my résumé](https://www.creal589.dev/resume) &emsp; [Explore the portfolio](https://www.creal589.dev/) &emsp; [Get in touch](mailto:tommyfodaykailie@gmail.com)
 
 <sub>Designed as an engineer’s atlas. Illustrated as product specimens. Built to be explored.</sub>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">The Book of Blocks — reading the market</title>
+  <title id="title">The Book of Blocks: reading the market</title>
   <desc id="desc">An archival project plate showing a carefully constructed landscape of isometric blocks and a vermilion market trace.</desc>
   <defs>
     <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><path d="M0 0V6" stroke="#162c3b" stroke-opacity=".16"/></pattern>
@@ -9,7 +9,7 @@
   <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
   <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
   <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
-  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 02 / MARKET INTELLIGENCE</text>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">FOLIO 02 MARKET INTELLIGENCE</text>
   <text x="58" y="144" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="65" letter-spacing="-2.8">The Book of Blocks</text>
   <text x="61" y="190" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">An instrument for reading the market.</text>
   <path d="M61 229H608" stroke="#162c3b" stroke-opacity=".2"/>
@@ -42,7 +42,7 @@
   <g fill="#f4efdf" stroke="#d65336" stroke-width="1.8"><circle cx="750" cy="128" r="4"/><circle cx="842" cy="81" r="4"/><circle cx="932" cy="61" r="4"/><circle cx="1037" cy="42" r="4"/></g>
   <path d="M698 68V230M692 68H704M692 230H704" stroke="#376d70" stroke-opacity=".65"/>
   <path d="M711 79H722M711 113H722M711 147H722M711 181H722M711 215H722" stroke="#376d70" stroke-opacity=".35"/>
-  <text x="730" y="62" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.5">SIGNAL / STRUCTURE</text>
+  <text x="730" y="62" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.5">SIGNAL STRUCTURE</text>
   <path d="M1102 94H1129M1115 81V107" stroke="#162c3b" stroke-opacity=".35"/>
   <circle cx="1115" cy="94" r="9" fill="none" stroke="#162c3b" stroke-opacity=".35"/>
   <text x="1115" y="118" text-anchor="middle" fill="#376d70" font-family="Courier New, monospace" font-size="8">N</text>

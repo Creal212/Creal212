@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Dev Autographs — a developer's mark</title>
+  <title id="title">Dev Autographs: a developer's mark</title>
   <desc id="desc">An archival project plate with an engraved identity card, a handwritten signature, and an intricate provenance seal.</desc>
   <defs>
     <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(36)"><path d="M0 0V7" stroke="#162c3b" stroke-opacity=".11"/></pattern>
@@ -9,7 +9,7 @@
   <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
   <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
   <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
-  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 01 / DEVELOPER IDENTITY</text>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">FOLIO 01 DEVELOPER IDENTITY</text>
   <text x="58" y="149" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="-2">Dev Autographs</text>
   <text x="61" y="192" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">Identity, with a human signature.</text>
   <path d="M61 229H571" stroke="#162c3b" stroke-opacity=".2"/>

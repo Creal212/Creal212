@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">World Trade Factory — a composed view of moving markets</title>
+  <title id="title">World Trade Factory: a composed view of moving markets</title>
   <desc id="desc">An archival project plate pairing an orbital market instrument with a finely drawn isometric trading desk and vermilion signal line.</desc>
   <defs>
     <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V6" stroke="#162c3b" stroke-opacity=".17"/></pattern>
@@ -9,7 +9,7 @@
   <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
   <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
   <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
-  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 04 / TRADING INTERFACE</text>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">FOLIO 04 TRADING INTERFACE</text>
   <text x="58" y="142" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-3">World Trade Factory</text>
   <text x="61" y="190" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">A composed view of moving markets.</text>
   <path d="M61 229H607" stroke="#162c3b" stroke-opacity=".2"/>
@@ -46,7 +46,7 @@
   <g fill="#d65336" stroke="#d65336"><path d="M905 146L911 148V155L905 153ZM935 156L941 158V162L935 160Z"/></g>
   <path d="M970 163L992 169M970 171L985 175M970 179L992 185" stroke="#376d70" stroke-width="2" stroke-linecap="round"/>
   <path d="M696 57H737M696 53V61M716 53V61M737 53V61" stroke="#162c3b" stroke-opacity=".5"/>
-  <text x="752" y="61" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.2">OBSERVE / NAVIGATE</text>
+  <text x="752" y="61" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.2">OBSERVE NAVIGATE</text>
   <path d="M1091 226H1131M1111 206V246" stroke="#376d70" stroke-opacity=".35"/>
   <circle cx="1111" cy="226" r="12" fill="none" stroke="#376d70" stroke-opacity=".35"/>
   <circle cx="1111" cy="226" r="3" fill="#d65336"/>
