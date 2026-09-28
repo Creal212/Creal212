@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dev Autographs — a developer's mark</title>
+  <desc id="desc">An archival project plate with an engraved identity card, a handwritten signature, and an intricate provenance seal.</desc>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(36)"><path d="M0 0V7" stroke="#162c3b" stroke-opacity=".11"/></pattern>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#376d70" fill-opacity=".24"/></pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#f4efdf"/>
+  <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
+  <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
+  <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 01 / DEVELOPER IDENTITY</text>
+  <text x="58" y="149" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="68" letter-spacing="-2">Dev Autographs</text>
+  <text x="61" y="192" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">Identity, with a human signature.</text>
+  <path d="M61 229H571" stroke="#162c3b" stroke-opacity=".2"/>
+  <text x="61" y="253" fill="#162c3b" font-family="Courier New, monospace" font-size="11" letter-spacing="2.3">THE ENGINEER'S ATLAS</text>
+  <text x="574" y="253" text-anchor="end" fill="#d65336" font-family="Courier New, monospace" font-size="12">01</text>
+  <rect x="656" y="38" width="489" height="222" fill="url(#dots)"/>
+  <path d="M688 244H1131M711 57V256" stroke="#376d70" stroke-opacity=".22"/>
+  <path d="M744 78L949 61 973 226 768 243Z" fill="url(#hatch)" stroke="#162c3b" stroke-opacity=".35"/>
+  <path d="M723 67L930 49 946 213 739 232Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.7"/>
+  <path d="M729 91L932 74M735 163L939 146" stroke="#162c3b" stroke-opacity=".35"/>
+  <circle cx="747" cy="78" r="2.5" fill="#d65336"/>
+  <circle cx="758" cy="77" r="2.5" fill="#376d70"/>
+  <circle cx="769" cy="76" r="2.5" fill="#162c3b" fill-opacity=".25"/>
+  <text x="861" y="72" fill="#162c3b" font-family="Courier New, monospace" font-size="8" letter-spacing="1">FIELD RECORD</text>
+  <path d="M752 117L771 115M752 125L786 122M804 113L901 104M805 122L878 115M806 131L891 123M807 140L858 135" fill="none" stroke="#376d70" stroke-width="2" stroke-linecap="round"/>
+  <path d="M755 142L753 133 763 132 765 141Z" fill="none" stroke="#d65336" stroke-width="1.5"/>
+  <path d="M759 132L758 128C757 121 765 120 766 127L767 130" fill="none" stroke="#d65336" stroke-width="1.3"/>
+  <path d="M758 191C782 188 798 161 787 167C775 175 772 202 784 200C796 198 803 179 802 178C799 185 797 197 803 195L819 179C807 202 824 195 834 181C826 201 844 196 851 180C853 186 845 193 848 196C854 200 868 189 876 183C865 199 876 200 893 181M756 207C804 195 849 201 910 188" fill="none" stroke="#162c3b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M879 222L965 222 965 190" fill="none" stroke="#d65336" stroke-width="1.3"/>
+  <circle cx="879" cy="222" r="3" fill="#d65336"/>
+  <path d="M1066 97L1093 73H1138M1066 210L1093 235H1138" fill="none" stroke="#376d70" stroke-width="1"/>
+  <text x="1100" y="66" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.2">ORIGIN</text>
+  <text x="1100" y="249" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.2">TRACE</text>
+  <circle cx="1024" cy="154" r="78" fill="#f4efdf" stroke="#162c3b" stroke-width="1.1" stroke-dasharray="1 4"/>
+  <circle cx="1024" cy="154" r="72" fill="none" stroke="#162c3b" stroke-width="1.6"/>
+  <circle cx="1024" cy="154" r="64" fill="url(#hatch)" stroke="#162c3b" stroke-width=".8"/>
+  <circle cx="1024" cy="154" r="53" fill="#f4efdf" stroke="#d65336" stroke-width="1.5"/>
+  <path d="M1024 76V84M1024 224V232M946 154H954M1094 154H1102" stroke="#d65336" stroke-width="2"/>
+  <path d="M977 107L983 113M1065 195L1071 201M977 201L983 195M1065 113L1071 107" stroke="#162c3b"/>
+  <text x="1024" y="131" text-anchor="middle" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="3">AUTOGRAPH</text>
+  <path d="M1024 139L1008 165 1024 182 1040 165Z" fill="#162c3b"/>
+  <path d="M1024 149V181" stroke="#f4efdf" stroke-width="1.2"/>
+  <circle cx="1024" cy="163" r="3.5" fill="#f4efdf"/>
+  <path d="M1008 187H1040" stroke="#d65336" stroke-width="2"/>
+  <path d="M1032 62H1044M1038 56V68M695 183H703M699 179V187M1120 155H1128M1124 151V159" stroke="#376d70" stroke-opacity=".5"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">The Book of Blocks — reading the market</title>
+  <desc id="desc">An archival project plate showing a carefully constructed landscape of isometric blocks and a vermilion market trace.</desc>
+  <defs>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><path d="M0 0V6" stroke="#162c3b" stroke-opacity=".16"/></pattern>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#376d70" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#f4efdf"/>
+  <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
+  <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
+  <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 02 / MARKET INTELLIGENCE</text>
+  <text x="58" y="144" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="65" letter-spacing="-2.8">The Book of Blocks</text>
+  <text x="61" y="190" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">An instrument for reading the market.</text>
+  <path d="M61 229H608" stroke="#162c3b" stroke-opacity=".2"/>
+  <text x="61" y="253" fill="#162c3b" font-family="Courier New, monospace" font-size="11" letter-spacing="2.3">THE ENGINEER'S ATLAS</text>
+  <text x="610" y="253" text-anchor="end" fill="#d65336" font-family="Courier New, monospace" font-size="12">02</text>
+  <rect x="661" y="39" width="489" height="218" fill="url(#grid)"/>
+  <path d="M685 207L907 80 1137 211 916 264Z" fill="none" stroke="#376d70" stroke-opacity=".3"/>
+  <path d="M716 220L936 95M750 234L967 113M789 242L999 132M828 252L1030 150M761 164L974 251M801 141L1010 238M842 117L1054 228M880 95L1098 219" fill="none" stroke="#376d70" stroke-opacity=".13"/>
+  <g stroke="#162c3b" stroke-width="1.4" stroke-linejoin="round">
+    <path d="M746 178L783 157 820 178 783 199Z" fill="#f4efdf"/>
+    <path d="M746 178V212L783 233V199Z" fill="#376d70" fill-opacity=".18"/>
+    <path d="M783 199L820 178V212L783 233Z" fill="url(#hatch)"/>
+    <path d="M824 122L866 98 908 122 866 146Z" fill="#f4efdf"/>
+    <path d="M824 122V189L866 213V146Z" fill="#376d70" fill-opacity=".2"/>
+    <path d="M866 146L908 122V189L866 213Z" fill="url(#hatch)"/>
+    <path d="M824 155L866 179 908 155" fill="none" stroke-opacity=".45"/>
+    <path d="M899 164L940 141 981 164 940 188Z" fill="#f4efdf"/>
+    <path d="M899 164V212L940 236V188Z" fill="#376d70" fill-opacity=".15"/>
+    <path d="M940 188L981 164V212L940 236Z" fill="url(#hatch)"/>
+    <path d="M976 96L1017 72 1058 96 1017 120Z" fill="#f4efdf"/>
+    <path d="M976 96V184L1017 208V120Z" fill="#376d70" fill-opacity=".23"/>
+    <path d="M1017 120L1058 96V184L1017 208Z" fill="url(#hatch)"/>
+    <path d="M976 125L1017 149 1058 125M976 155L1017 179 1058 155" fill="none" stroke-opacity=".45"/>
+    <path d="M1045 166L1080 146 1115 166 1080 187Z" fill="#f4efdf"/>
+    <path d="M1045 166V204L1080 224V187Z" fill="#376d70" fill-opacity=".15"/>
+    <path d="M1080 187L1115 166V204L1080 224Z" fill="url(#hatch)"/>
+  </g>
+  <path d="M703 150L750 128 784 141 842 81 888 96 932 61 973 79 1037 42 1087 54 1126 39" fill="none" stroke="#f4efdf" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M703 150L750 128 784 141 842 81 888 96 932 61 973 79 1037 42 1087 54 1126 39" fill="none" stroke="#d65336" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#f4efdf" stroke="#d65336" stroke-width="1.8"><circle cx="750" cy="128" r="4"/><circle cx="842" cy="81" r="4"/><circle cx="932" cy="61" r="4"/><circle cx="1037" cy="42" r="4"/></g>
+  <path d="M698 68V230M692 68H704M692 230H704" stroke="#376d70" stroke-opacity=".65"/>
+  <path d="M711 79H722M711 113H722M711 147H722M711 181H722M711 215H722" stroke="#376d70" stroke-opacity=".35"/>
+  <text x="730" y="62" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.5">SIGNAL / STRUCTURE</text>
+  <path d="M1102 94H1129M1115 81V107" stroke="#162c3b" stroke-opacity=".35"/>
+  <circle cx="1115" cy="94" r="9" fill="none" stroke="#162c3b" stroke-opacity=".35"/>
+  <text x="1115" y="118" text-anchor="middle" fill="#376d70" font-family="Courier New, monospace" font-size="8">N</text>
+  <path d="M805 250H848M805 247V253M826 247V253M848 247V253" stroke="#162c3b" stroke-opacity=".5"/>
+</svg>

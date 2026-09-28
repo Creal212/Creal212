@@ -1,200 +1,163 @@
-<!--
-  Cyril Foday-Kailie — GitHub Profile
-  Single-column, mobile-first. No layout tables. Brand assets under /assets/brand.
--->
+<!-- Original vector illustrations: assets/atlas. Essential content stays in native Markdown. -->
 
-<div align="center">
+[Portfolio ↗](https://www.creal589.dev/) · [Résumé ↗](https://www.creal589.dev/resume) · [LinkedIn ↗](https://www.linkedin.com/in/creal212/) · [Email ↗](mailto:tommyfodaykailie@gmail.com)
 
-  <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/banner.gif"
-    alt="Cyril Foday-Kailie — Software Engineer and Product Designer"
-    width="100%"
-  />
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/atlas/cover-mobile-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/atlas/cover-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/atlas/cover-dark.svg">
+  <img src="assets/atlas/cover.svg" alt="The Engineer’s Atlas. Ideas, made operational. An illustrated cutaway connects the interface, services, and data behind a product." width="100%">
+</picture>
 
-  <br/><br/>
+# Cyril Foday-Kailie
 
-  **Software Engineer · Full-Stack Developer · AI Systems · Product Designer**  
-  St. Paul, MN · B.S. Computer Science, Metropolitan State University  
-  *I build products where the interface and the architecture are designed together.*
+**Software engineer · Full-stack products · AI systems · Product design**<br>St. Paul, Minnesota · B.S. Computer Science, Metropolitan State University
 
-  <br/>
+I turn complicated systems into products people can understand and use. My work connects the visible details—interfaces, typography, interaction—with the machinery underneath: APIs, data pipelines, desktop tooling, and AI workflows.
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-creal589.dev-1A3328?style=for-the-badge&labelColor=0B1612)](https://www.creal589.dev/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-creal212-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/creal212/)
-  [![Email](https://img.shields.io/badge/Email-Primepeace2003%40gmail.com-C4A35A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C1610)](mailto:Primepeace2003@gmail.com)
-  [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Software%20Engineering%20roles-3D6B4F?style=for-the-badge&labelColor=0B1612)](https://www.creal589.dev/contact-me)
-
-</div>
+**Open to software engineering roles.**
 
 ---
 
-### Snapshot
+## The collection
 
-I ship end-to-end products: AI-assisted desktop tools, live market interfaces, data pipelines, and carefully designed web experiences. Recent work spans **React / Next.js**, **TypeScript**, **Supabase**, **Python**, **PostgreSQL**, **Tauri / Rust**, and **on-chain** systems — with the same attention to interaction design as to system boundaries.
+Four products. Four different problems. One thread: **design the experience and the system together.**
 
-- **Product engineering** — own the path from idea → UX → data model → deploy  
-- **AI systems** — local + cloud model workflows with reviewable change control  
-- **Interface craft** — responsive layouts, typography, motion, and readable complexity  
-- **Data & backends** — realtime feeds, pipelines, SQL, and observability
+[01 — Sign](#01--dev-autographs) · [02 — Understand](#02--the-book-of-blocks) · [03 — Build](#03--imperium) · [04 — Navigate](#04--world-trade-factory)
 
----
+### 01 / Dev Autographs
 
-<div align="center">
+<a href="https://www.devautographs.com/">
+  <img src="assets/atlas/dev-autograph.svg" alt="Dev Autographs: an engraved signature flows into a cryptographic seal. Open the product." width="100%">
+</a>
 
-## Selected Work
+**A signature for the files you ship.**<br>A Windows app, CLI, and web desk connect Git workflows to cryptographic file signatures and public records. The optional <kbd>Shift</kbd> + <kbd>D</kbd> report brings those records into a website without adding a permanent badge.
 
-*Built, designed, and shipped — not just prototyped.*
+`Tauri` `Node.js` `Git hooks` `Ed25519` `SHA-256` · **Early access**
 
-</div>
+[Explore the product ↗](https://www.devautographs.com/) · [Open the web desk ↗](https://www.devautographs.com/desk.html) · [Case study ↗](https://www.creal589.dev/my-projects/dev-autographs) · [Releases ↗](https://github.com/Creal212/Dev-Autographs-Installer/releases)
+
+<details>
+<summary><strong>Inside the mechanism</strong> — from a commit to an inspectable record</summary>
+
+Enabled hooks sign staged file bytes and their recorded context. Publishing happens on push; website embedding is a separate opt-in. Private signing keys stay on the developer’s machine, and the registry receives fingerprints and signed records rather than source code.
+
+The report checks the supplied file signatures and registry status. The design challenge is making that evidence understandable without interrupting the product around it.
+
+</details>
+
+<br>
+
+### 02 / The Book of Blocks
 
 <a href="https://www.bookofblocks.xyz/">
-  <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/book-of-blocks.png"
-    alt="The Book of Blocks"
-    width="360"
-  />
+  <img src="assets/atlas/book-of-blocks.svg" alt="The Book of Blocks: a landscape of stacked blocks becomes a market instrument. Open the live project." width="100%">
 </a>
 
-**[The Book of Blocks](https://www.bookofblocks.xyz/)** — crypto encyclopedia + market observatory  
-Chaptered project guides, live rankings, charts, and source provenance in one reading experience.  
-`Next.js` · `React` · `Supabase Realtime` · `TradingView Charts` · `Vercel`  
-[Live](https://www.bookofblocks.xyz/) · [Case study](https://www.creal589.dev/my-projects/book-of-blocks)
+**A reading room with a market observatory next door.**<br>Chaptered crypto guides, live rankings, price charts, and source notes share one reading experience. The project brings editorial structure to a subject that rarely slows down.
 
-<br/>
+`Next.js` `React` `Supabase Realtime` `TradingView Lightweight Charts`
+
+[Enter the observatory ↗](https://www.bookofblocks.xyz/) · [Case study ↗](https://www.creal589.dev/my-projects/book-of-blocks)
+
+<details>
+<summary><strong>Inside the mechanism</strong> — give moving data a readable home</summary>
+
+The interface has two jobs: explain a project and show what its market is doing. Chapter navigation serves the first; rankings, charts, source notes, and visible timestamps serve the second.
+
+The engineering work connects the reading experience to market ingestion, storage, and realtime updates. Data freshness belongs in the experience, alongside the numbers themselves.
+
+</details>
+
+<br>
+
+### 03 / I.M.P.E.R.I.U.M
 
 <a href="https://www.imperium589.world/">
-  <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/imperium.png"
-    alt="I.M.P.E.R.I.U.M"
-    width="360"
-  />
+  <img src="assets/atlas/imperium.svg" alt="I.M.P.E.R.I.U.M: an exploded workbench illustrates the path from a project clone through review to Main. Open the product." width="100%">
 </a>
 
-**[I.M.P.E.R.I.U.M](https://www.imperium589.world/)** — AI desktop workspace (early access)  
-Plan in Blueprint, build in a project clone, review patches before they reach Main. Local + connected models.  
-`Tauri` · `Rust` · `React` · `TypeScript` · `SQLite` · `llama.cpp`  
-[Product site](https://www.imperium589.world/) · [Installer repo](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-) · [Case study](https://www.creal589.dev/my-projects/imperium)
+**From a conversation to a reviewed change.**<br>An AI desktop workspace for planning, building in a project clone, and reviewing patches before they reach Main. Local and connected model workflows share a deliberate human review boundary.
 
-<br/>
+`Tauri` `Rust` `React` `TypeScript` `SQLite` · **Early access**
+
+[Visit the workbench ↗](https://www.imperium589.world/) · [Case study ↗](https://www.creal589.dev/my-projects/imperium) · [Installer repository ↗](https://github.com/Creal212/I.M.P.E.R.I.U.M-Installer-Early-Access-)
+
+<details>
+<summary><strong>Inside the mechanism</strong> — make the approval boundary visible</summary>
+
+Blueprint is the planning space. A project clone is the working space. Reviewed patches are the path back to Main.
+
+That separation shapes both the architecture and the interface: model output needs to become a concrete change a person can inspect and approve. The desktop experience brings together model connections, project files, and the review workflow.
+
+</details>
+
+<br>
+
+### 04 / World Trade Factory
 
 <a href="https://wtf-trading-interface.vercel.app/">
-  <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/world-trade-factory.png"
-    alt="World Trade Factory"
-    width="360"
-  />
+  <img src="assets/atlas/world-trade-factory.svg" alt="World Trade Factory: a calibrated market console puts charts and controls around a central instrument. Open the live interface." width="100%">
 </a>
 
-**[World Trade Factory](https://wtf-trading-interface.vercel.app/)** — live trading workspace  
-Markets, charts, comparisons, and wallet-ready flows that adapt from desktop desk to mobile tabs.  
-`React` · `Next.js` · `TypeScript` · `Responsive UX`  
-[Live](https://wtf-trading-interface.vercel.app/) · [Case study](https://www.creal589.dev/my-projects/wtf)
+**A market desk built around moving information.**<br>Live feeds, price charts, and wallet connections meet in a responsive workspace. The layout moves from a desktop trading desk to focused mobile views.
 
-<br/>
+`Next.js` `React` `Recharts` `WebSockets` `ethers.js` · **Live interface · Integrations in progress**
 
-<a href="https://github.com/Creal212/revops-data-sync">
-  <img
-    src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/brand/revops.png"
-    alt="RevOps Data Sync"
-    width="360"
-  />
+[Explore the interface ↗](https://wtf-trading-interface.vercel.app/) · [Case study ↗](https://www.creal589.dev/my-projects/wtf)
+
+<details>
+<summary><strong>Inside the mechanism</strong> — density without losing direction</summary>
+
+Markets, charts, and trading controls need a clear hierarchy when everything is changing at once. The case study follows those layout decisions across desktop and mobile, alongside live market feeds and wallet integrations.
+
+Execution and settlement integrations remain in progress. Saved trading rules currently live in the browser.
+
+</details>
+
+<br>
+
+**Also on the bench — [RevOps Data Sync ↗](https://github.com/Creal212/revops-data-sync)**<br>A compact data engineering project: mock CRM, support, and product data move through Python ingestion and SQL cleanup into a PostgreSQL account-health mart and a Metabase dashboard.<br>`Python` `SQL` `PostgreSQL` `Metabase` `Docker`
+
+---
+
+## The working practice
+
+**Start with the person using it.** Give complex information a clear hierarchy, useful feedback, and a deliberate interaction model.
+
+**Make the boundaries visible.** Show what the data describes, what an AI can change, and where a human decision belongs.
+
+**Follow the feature all the way down.** Treat the interface, API, storage, and deployment as parts of the same product.
+
+<details>
+<summary><strong>Tools behind the work</strong></summary>
+
+- **Interfaces:** TypeScript, JavaScript, React, Next.js, Tailwind CSS.
+- **Data and services:** Python, Node.js, PostgreSQL, Supabase, SQL.
+- **Desktop and AI workflows:** Tauri, Rust, SQLite, local and connected models.
+- **Delivery:** Git, Docker, Vercel, Railway.
+
+The project links above show where these tools are used and the decisions behind them.
+
+</details>
+
+<details>
+<summary><strong>In the margins</strong> — there is still room to play</summary>
+
+Careful engineering. A little anime. Always another idea on the bench.
+
+<img src="assets/chop.gif" alt="Chopper from One Piece, an animated nod to the original profile." width="160">
+
+</details>
+
+<br>
+
+<a href="https://www.creal589.dev/contact-me">
+  <img src="assets/atlas/colophon.svg" alt="The next page is unwritten. Let’s build it. Contact Cyril." width="100%">
 </a>
 
-**[RevOps Data Sync](https://github.com/Creal212/revops-data-sync)** — analytics pipeline platform  
-Mini RevOps sync layer with SQL-backed storage and Metabase-ready reporting.  
-`Python` · `PostgreSQL` · `SQL` · `Metabase`  
-[Repository](https://github.com/Creal212/revops-data-sync)
+**Looking for someone who cares how it works and how it feels?**<br>I’m open to software engineering roles and thoughtful conversations about building useful products.
 
----
+[Read my résumé ↗](https://www.creal589.dev/resume) · [Explore the portfolio ↗](https://www.creal589.dev/) · [Get in touch ↗](mailto:tommyfodaykailie@gmail.com)
 
-<div align="center">
-
-## Toolkit
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,express,supabase,postgres,mongodb,docker,linux,git,vercel,tailwind" alt="Core skills" />
-
-<br/><br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-</div>
-
----
-
-### Currently sharpening
-
-- Cloud infrastructure & production deployment patterns  
-- AI engineering with clear human review boundaries  
-- System design for realtime and multi-environment products  
-- DevOps automation that stays understandable under pressure  
-
----
-
-<div align="center">
-
-## Signal
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Creal212&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=7CB89A&icon_color=C4A35A&text_color=c9d1d9&bg_color=00000000"
-  alt="Creal212 GitHub stats"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creal212&layout=compact&theme=transparent&hide_border=true&title_color=7CB89A&text_color=c9d1d9&bg_color=00000000"
-  alt="Top languages"
-  height="165"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Arcade
-
-*Stay curious. Keep building.*
-
-<img src="https://raw.githubusercontent.com/Creal212/Creal212/main/assets/chop.gif" width="220" alt="Stay curious"/>
-
-<br/><br/>
-
-### Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Creal212/Creal212/output/github-snake.svg" width="100%">
-</picture>
-
-<br/><br/>
-
-### Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Creal212/Creal212/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### Let’s build something worth reviewing twice
-
-The portfolio has the full story — product decisions, stacks, and case studies.  
-**[creal589.dev](https://www.creal589.dev/)** · **[LinkedIn](https://www.linkedin.com/in/creal212/)** · **[Résumé](https://www.creal589.dev/resume)**
-
-</div>
+<sub>Designed as an engineer’s atlas. Illustrated as product specimens. Built to be explored.</sub>

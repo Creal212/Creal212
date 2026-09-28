@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">World Trade Factory — a composed view of moving markets</title>
+  <desc id="desc">An archival project plate pairing an orbital market instrument with a finely drawn isometric trading desk and vermilion signal line.</desc>
+  <defs>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V6" stroke="#162c3b" stroke-opacity=".17"/></pattern>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#376d70" fill-opacity=".26"/></pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#f4efdf"/>
+  <rect x="18.5" y="18.5" width="1163" height="263" rx="1" fill="none" stroke="#162c3b" stroke-opacity=".2"/>
+  <path d="M18 45V18H45M1155 18H1182V45M18 255V282H45M1155 282H1182V255" fill="none" stroke="#162c3b" stroke-width="2"/>
+  <path d="M59 59H93" stroke="#d65336" stroke-width="3"/>
+  <text x="108" y="64" fill="#162c3b" font-family="Courier New, monospace" font-size="13" letter-spacing="2">PLATE 04 / TRADING INTERFACE</text>
+  <text x="58" y="142" fill="#162c3b" font-family="Georgia, 'Times New Roman', serif" font-size="64" letter-spacing="-3">World Trade Factory</text>
+  <text x="61" y="190" fill="#376d70" font-family="Georgia, 'Times New Roman', serif" font-size="23">A composed view of moving markets.</text>
+  <path d="M61 229H607" stroke="#162c3b" stroke-opacity=".2"/>
+  <text x="61" y="253" fill="#162c3b" font-family="Courier New, monospace" font-size="11" letter-spacing="2.3">THE ENGINEER'S ATLAS</text>
+  <text x="610" y="253" text-anchor="end" fill="#d65336" font-family="Courier New, monospace" font-size="12">04</text>
+  <rect x="665" y="39" width="481" height="221" fill="url(#dots)"/>
+  <circle cx="1026" cy="118" r="70" fill="none" stroke="#162c3b" stroke-width="1.2"/>
+  <circle cx="1026" cy="118" r="62" fill="none" stroke="#376d70" stroke-opacity=".35" stroke-dasharray="1 4"/>
+  <ellipse cx="1026" cy="118" rx="38" ry="70" fill="none" stroke="#376d70" stroke-width=".9"/>
+  <ellipse cx="1026" cy="118" rx="70" ry="24" fill="none" stroke="#376d70" stroke-width=".9"/>
+  <path d="M956 118H1096M1026 48V188M967 83H1085M967 153H1085" stroke="#376d70" stroke-opacity=".4"/>
+  <ellipse cx="1026" cy="118" rx="94" ry="34" transform="rotate(-32 1026 118)" fill="none" stroke="#d65336" stroke-width="1.5"/>
+  <circle cx="1105" cy="66" r="5" fill="#d65336"/>
+  <path d="M1026 36V43M1026 193V200M944 118H951M1101 118H1108" stroke="#162c3b"/>
+  <path d="M972 64L967 59M1080 172L1085 177M1080 64L1085 59M972 172L967 177" stroke="#162c3b" stroke-opacity=".45"/>
+  <text x="1116" y="54" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1">FEED</text>
+  <path d="M713 218L847 164 1059 226 924 270Z" fill="none" stroke="#376d70" stroke-opacity=".22"/>
+  <path d="M714 204L848 159 1060 218 926 264Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M714 204V211L926 271V264ZM926 264L1060 218V225L926 271Z" fill="url(#hatch)" stroke="#162c3b" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M751 191L809 172 875 190 817 210Z" fill="#376d70" fill-opacity=".1" stroke="#376d70" stroke-width="1"/>
+  <path d="M763 189L829 207M775 185L841 203M787 181L853 199M765 194L823 175M784 200L842 181M804 205L861 186" fill="none" stroke="#376d70" stroke-opacity=".4"/>
+  <path d="M861 223L906 208 966 225 921 240Z" fill="#f4efdf" stroke="#162c3b" stroke-opacity=".5"/>
+  <path d="M873 223L906 212 954 225" fill="none" stroke="#376d70" stroke-opacity=".4"/>
+  <path d="M788 165V148L804 152V169L815 172 800 178 781 172Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M724 76L853 113V169L724 133Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M732 87L845 119V157L732 126Z" fill="#376d70" fill-opacity=".08" stroke="#376d70" stroke-opacity=".5"/>
+  <path d="M740 99L836 126M740 112L836 139M760 95V131M785 102V138M810 109V145" stroke="#376d70" stroke-opacity=".22"/>
+  <path d="M740 118L755 112 767 120 781 108 795 124 810 118 824 129 836 122" fill="none" stroke="#d65336" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M932 205V186L948 191V211L959 214 944 219 926 214Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.1" stroke-linejoin="round"/>
+  <path d="M868 117L1011 157V211L868 171Z" fill="#f4efdf" stroke="#162c3b" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M876 128L1003 164V200L876 165Z" fill="#376d70" fill-opacity=".08" stroke="#376d70" stroke-opacity=".5"/>
+  <path d="M962 152V188M881 139L954 159M881 151L954 171" stroke="#376d70" stroke-opacity=".35"/>
+  <g stroke="#162c3b" stroke-width="1"><path d="M893 138V159M908 139V160M923 148V168M938 149V170"/><path d="M890 144L896 146V151L890 149ZM920 153L926 155V163L920 161Z" fill="#162c3b"/></g>
+  <g fill="#d65336" stroke="#d65336"><path d="M905 146L911 148V155L905 153ZM935 156L941 158V162L935 160Z"/></g>
+  <path d="M970 163L992 169M970 171L985 175M970 179L992 185" stroke="#376d70" stroke-width="2" stroke-linecap="round"/>
+  <path d="M696 57H737M696 53V61M716 53V61M737 53V61" stroke="#162c3b" stroke-opacity=".5"/>
+  <text x="752" y="61" fill="#376d70" font-family="Courier New, monospace" font-size="8" letter-spacing="1.2">OBSERVE / NAVIGATE</text>
+  <path d="M1091 226H1131M1111 206V246" stroke="#376d70" stroke-opacity=".35"/>
+  <circle cx="1111" cy="226" r="12" fill="none" stroke="#376d70" stroke-opacity=".35"/>
+  <circle cx="1111" cy="226" r="3" fill="#d65336"/>
+</svg>
